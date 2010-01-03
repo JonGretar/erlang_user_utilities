@@ -5,7 +5,7 @@
 sync() ->
 	make:all([load]).
 
-% Run the make command in shell.
+%% Run the make command in shell.
 make() ->
 	run_command(["make", "all"]).
 
