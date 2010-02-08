@@ -1,4 +1,4 @@
-My fork of Jon Gretar's Erlang User Utilities.  Read [this blog post](http://medevyoujane.com/blog/2010/1/3/erlang-quick-tip-the-user_default-module.html) for background.
+A collection of handy user utilities for the Erlang shell. Read [this blog post](http://medevyoujane.com/blog/2010/1/3/erlang-quick-tip-the-user_default-module.html) for background.
 
     sync()              %   compiles all files in Emakefile and load into current shell
     reload()            %   reload loaded modules
